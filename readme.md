@@ -27,13 +27,13 @@ pip install numpy
 ## To Run the program
 
 - Unzip the folder given
-- Click and open the file name proj1_SandipSharan_SenthilKumar.py
+- Click and open the file name Proj1_script.py
 - If opened in VScode, click the run button on the top right corner or click `Ctrl+Atl+N`
 - Open the terminal in the folder location and run the following command
 </br>
 
 ```
-python3 proj1_SandipSharan_SenthilKumar.py
+python3 Proj1_script.py
 ```
 - The generated txt file are presented in the given folder 
 * Node.txt
